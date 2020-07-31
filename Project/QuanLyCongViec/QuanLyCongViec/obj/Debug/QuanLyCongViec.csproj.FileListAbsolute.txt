@@ -1,0 +1,388 @@
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.csprojAssemblyReference.cache
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Form1.resources
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Properties.Resources.resources
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.csproj.GenerateResource.cache
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.exe.licenses
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.csproj.CoreCompileInputs.cache
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.frmAdmin.resources
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Views.Forms.Authentication.frmAuthentication.resources
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Views.Forms.Leader.frmLeader.resources
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Views.Forms.Member.frmMember.resources
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\QuanLyCongViec.exe.config
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\QuanLyCongViec.exe
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\QuanLyCongViec.pdb
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Data.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraScheduler.v19.2.Extensions.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Images.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraSpellChecker.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.SpellChecker.v19.2.Core.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraScheduler.v19.2.Extensions.xml
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraSpellChecker.v19.2.xml
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.SpellChecker.v19.2.Core.xml
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraSpellChecker.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraSpellChecker.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraSpellChecker.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraSpellChecker.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.csproj.CopyComplete
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.exe
+D:\Nam_4\Lap trinh truc quan\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.pdb
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\QuanLyCongViec.exe.config
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\QuanLyCongViec.exe
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\QuanLyCongViec.pdb
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Data.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraScheduler.v19.2.Extensions.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Images.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraSpellChecker.v19.2.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.SpellChecker.v19.2.Core.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraScheduler.v19.2.Extensions.xml
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraSpellChecker.v19.2.xml
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.SpellChecker.v19.2.Core.xml
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraSpellChecker.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraSpellChecker.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraSpellChecker.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraSpellChecker.v19.2.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.csprojAssemblyReference.cache
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Form1.resources
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Properties.Resources.resources
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.frmAdmin.resources
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Views.Forms.Authentication.frmAuthentication.resources
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Views.Forms.Leader.frmLeader.resources
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Views.Forms.Member.frmMember.resources
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.csproj.GenerateResource.cache
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.exe.licenses
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.csproj.CoreCompileInputs.cache
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.csproj.CopyComplete
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.exe
+D:\Nam_4\Lap trinh truc quan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.pdb
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.csprojAssemblyReference.cache
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Form1.resources
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Properties.Resources.resources
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.frmAdmin.resources
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Views.Forms.Authentication.frmAuthentication.resources
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Views.Forms.Leader.frmLeader.resources
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Views.Forms.Member.frmMember.resources
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.csproj.GenerateResource.cache
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.exe.licenses
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.csproj.CoreCompileInputs.cache
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.exe
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.pdb
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\QuanLyCongViec.exe.config
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\QuanLyCongViec.exe
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\QuanLyCongViec.pdb
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Images.v19.2.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraSpellChecker.v19.2.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.SpellChecker.v19.2.Core.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Data.v19.2.xml
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraScheduler.v19.2.Extensions.xml
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraSpellChecker.v19.2.xml
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.SpellChecker.v19.2.Core.xml
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.XtraSpellChecker.v19.2.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.csproj.CopyComplete
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Data.v19.2.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\bin\Debug\DevExpress.XtraScheduler.v19.2.Extensions.dll
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Views.Forms.Admin.QuanLyTruongNhom.resources
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Views.Forms.Admin.ThemQuanLy.resources
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Views.Forms.Leader.QuanLyNhanVien.resources
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnLapTrinhMoiTruongTrucQuanCSharp\Project\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Views.Forms.Leader.ThemNhanVien.resources

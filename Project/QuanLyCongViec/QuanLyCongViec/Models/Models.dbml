@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QuanLyCongViec" Class="ModelsDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-RA0OV2M;Initial Catalog=QuanLyCongViec;Persist Security Info=True;User ID=sa" SettingsObjectName="QuanLyCongViec.Properties.Settings" SettingsPropertyName="QuanLyCongViecConnectionString2" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ChucVu" Member="ChucVus">
+    <Type Name="ChucVu">
+      <Column Name="MaChucVu" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenChucVu" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Association Name="ChucVu_NhanVien" Member="NhanViens" ThisKey="MaChucVu" OtherKey="MaChucVu" Type="NhanVien" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ThanhVienNhomNhiemVu" Member="ThanhVienNhomNhiemVus">
+    <Type Name="ThanhVienNhomNhiemVu">
+      <Column Name="MaNhom" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaDuAn" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaNhiemVu" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaNhanVien" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="DuAn_ThanhVienNhomNhiemVu" Member="DuAn" ThisKey="MaDuAn" OtherKey="MaDuAn" Type="DuAn" IsForeignKey="true" />
+      <Association Name="NhanVien_ThanhVienNhomNhiemVu" Member="NhanVien" ThisKey="MaNhanVien" OtherKey="MaNhanVien" Type="NhanVien" IsForeignKey="true" />
+      <Association Name="NhiemVu_ThanhVienNhomNhiemVu" Member="NhiemVu" ThisKey="MaNhiemVu" OtherKey="MaNhiemVu" Type="NhiemVu" IsForeignKey="true" />
+      <Association Name="Nhom_ThanhVienNhomNhiemVu" Member="Nhom" ThisKey="MaNhom" OtherKey="MaNhom" Type="Nhom" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DuAn" Member="DuAns">
+    <Type Name="DuAn">
+      <Column Name="MaDuAn" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenDuAn" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="MoTaDuAn" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ThoiGianBatDauDuAn" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="ThoiGianKetThucDuAn" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="HoanThanhDuAn" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="MaMucDoQuanTrong" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="MaMucDoUuTien" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Association Name="DuAn_ThanhVienNhomNhiemVu" Member="ThanhVienNhomNhiemVus" ThisKey="MaDuAn" OtherKey="MaDuAn" Type="ThanhVienNhomNhiemVu" />
+      <Association Name="DuAn_ThanhVienNhomDuAn" Member="ThanhVienNhomDuAns" ThisKey="MaDuAn" OtherKey="MaDuAn" Type="ThanhVienNhomDuAn" />
+      <Association Name="MucDoQuanTrong_DuAn" Member="MucDoQuanTrong" ThisKey="MaMucDoQuanTrong" OtherKey="MaMucDoQuanTrong" Type="MucDoQuanTrong" IsForeignKey="true" />
+      <Association Name="MucDoUuTien_DuAn" Member="MucDoUuTien" ThisKey="MaMucDoUuTien" OtherKey="MaMucDoUuTien" Type="MucDoUuTien" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MucDoQuanTrong" Member="MucDoQuanTrongs">
+    <Type Name="MucDoQuanTrong">
+      <Column Name="MaMucDoQuanTrong" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenMucDoQuanTrong" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Association Name="MucDoQuanTrong_DuAn" Member="DuAns" ThisKey="MaMucDoQuanTrong" OtherKey="MaMucDoQuanTrong" Type="DuAn" />
+      <Association Name="MucDoQuanTrong_NhiemVu" Member="NhiemVus" ThisKey="MaMucDoQuanTrong" OtherKey="MaMucDoQuanTrong" Type="NhiemVu" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MucDoUuTien" Member="MucDoUuTiens">
+    <Type Name="MucDoUuTien">
+      <Column Name="MaMucDoUuTien" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenMucDoUuTien" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Association Name="MucDoUuTien_DuAn" Member="DuAns" ThisKey="MaMucDoUuTien" OtherKey="MaMucDoUuTien" Type="DuAn" />
+      <Association Name="MucDoUuTien_NhiemVu" Member="NhiemVus" ThisKey="MaMucDoUuTien" OtherKey="MaMucDoUuTien" Type="NhiemVu" />
+    </Type>
+  </Table>
+  <Table Name="dbo.NhanVien" Member="NhanViens">
+    <Type Name="NhanVien">
+      <Column Name="MaNhanVien" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenNhanVien" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="DiaChiNhanVien" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="GioiTinhNhanVien" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="NgaySinhNhanVien" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="MaChucVu" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Association Name="NhanVien_ThanhVienNhomNhiemVu" Member="ThanhVienNhomNhiemVus" ThisKey="MaNhanVien" OtherKey="MaNhanVien" Type="ThanhVienNhomNhiemVu" />
+      <Association Name="NhanVien_Nhom" Member="Nhoms" ThisKey="MaNhanVien" OtherKey="MaTruongNhom" Type="Nhom" />
+      <Association Name="NhanVien_TaiKhoan" Member="TaiKhoans" ThisKey="MaNhanVien" OtherKey="MaNhanVien" Type="TaiKhoan" />
+      <Association Name="NhanVien_ThanhVienNhom" Member="ThanhVienNhoms" ThisKey="MaNhanVien" OtherKey="MaNhanVien" Type="ThanhVienNhom" />
+      <Association Name="NhanVien_ThanhVienNhomDuAn" Member="ThanhVienNhomDuAns" ThisKey="MaNhanVien" OtherKey="MaNhanVien" Type="ThanhVienNhomDuAn" />
+      <Association Name="ChucVu_NhanVien" Member="ChucVu" ThisKey="MaChucVu" OtherKey="MaChucVu" Type="ChucVu" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.NhiemVu" Member="NhiemVus">
+    <Type Name="NhiemVu">
+      <Column Name="MaNhiemVu" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenNhiemVu" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="MoTaNhiemVu" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ThoiGianBatDauNhiemVu" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ThoiGianKetThucNhiemVu" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="HoanThanhNhiemVu" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="MaMucDoQuanTrong" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="MaMucDoUuTien" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Association Name="NhiemVu_ThanhVienNhomNhiemVu" Member="ThanhVienNhomNhiemVus" ThisKey="MaNhiemVu" OtherKey="MaNhiemVu" Type="ThanhVienNhomNhiemVu" />
+      <Association Name="MucDoQuanTrong_NhiemVu" Member="MucDoQuanTrong" ThisKey="MaMucDoQuanTrong" OtherKey="MaMucDoQuanTrong" Type="MucDoQuanTrong" IsForeignKey="true" />
+      <Association Name="MucDoUuTien_NhiemVu" Member="MucDoUuTien" ThisKey="MaMucDoUuTien" OtherKey="MaMucDoUuTien" Type="MucDoUuTien" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Nhom" Member="Nhoms">
+    <Type Name="Nhom">
+      <Column Name="MaNhom" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenNhom" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="MaTruongNhom" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Association Name="Nhom_ThanhVienNhomNhiemVu" Member="ThanhVienNhomNhiemVus" ThisKey="MaNhom" OtherKey="MaNhom" Type="ThanhVienNhomNhiemVu" />
+      <Association Name="Nhom_ThanhVienNhom" Member="ThanhVienNhoms" ThisKey="MaNhom" OtherKey="MaNhom" Type="ThanhVienNhom" />
+      <Association Name="Nhom_ThanhVienNhomDuAn" Member="ThanhVienNhomDuAns" ThisKey="MaNhom" OtherKey="MaNhom" Type="ThanhVienNhomDuAn" />
+      <Association Name="NhanVien_Nhom" Member="NhanVien" ThisKey="MaTruongNhom" OtherKey="MaNhanVien" Type="NhanVien" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TaiKhoan" Member="TaiKhoans">
+    <Type Name="TaiKhoan">
+      <Column Name="Email" Type="System.String" DbType="VarChar(30) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="MaNhanVien" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Association Name="NhanVien_TaiKhoan" Member="NhanVien" ThisKey="MaNhanVien" OtherKey="MaNhanVien" Type="NhanVien" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ThanhVienNhom" Member="ThanhVienNhoms">
+    <Type Name="ThanhVienNhom">
+      <Column Name="MaNhom" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaNhanVien" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="NhanVien_ThanhVienNhom" Member="NhanVien" ThisKey="MaNhanVien" OtherKey="MaNhanVien" Type="NhanVien" IsForeignKey="true" />
+      <Association Name="Nhom_ThanhVienNhom" Member="Nhom" ThisKey="MaNhom" OtherKey="MaNhom" Type="Nhom" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ThanhVienNhomDuAn" Member="ThanhVienNhomDuAns">
+    <Type Name="ThanhVienNhomDuAn">
+      <Column Name="MaNhom" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaDuAn" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaNhanVien" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="DuAn_ThanhVienNhomDuAn" Member="DuAn" ThisKey="MaDuAn" OtherKey="MaDuAn" Type="DuAn" IsForeignKey="true" />
+      <Association Name="NhanVien_ThanhVienNhomDuAn" Member="NhanVien" ThisKey="MaNhanVien" OtherKey="MaNhanVien" Type="NhanVien" IsForeignKey="true" />
+      <Association Name="Nhom_ThanhVienNhomDuAn" Member="Nhom" ThisKey="MaNhom" OtherKey="MaNhom" Type="Nhom" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.sp_authentications" Method="sp_authentications">
+    <Parameter Name="Email" Parameter="email" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="Password" Parameter="password" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="TenChucVu" Parameter="tenChucVu" Type="System.String" DbType="NVarChar(30)" />
+    <Parameter Name="KetQua" Parameter="ketQua" Type="System.String" DbType="VarChar(30)" Direction="InOut" />
+    <ElementType Name="sp_authenticationsResult">
+      <Column Name="MaNhanVien" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="TenNhanVien" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="DiaChiNhanVien" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="GioiTinhNhanVien" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="NgaySinhNhanVien" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="MaChucVu" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="TenChucVu" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.sp_getListLeader" Method="sp_getListLeader">
+    <ElementType Name="sp_getListLeaderResult">
+      <Column Name="MaNhanVien" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="TenNhanVien" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="DiaChiNhanVien" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="GioiTinhNhanVien" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="NgaySinhNhanVien" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="MaChucVu" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="TenChucVu" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.sp_getListMember" Method="sp_getListMember">
+    <ElementType Name="sp_getListMemberResult">
+      <Column Name="MaNhanVien" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="TenNhanVien" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="DiaChiNhanVien" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="GioiTinhNhanVien" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="NgaySinhNhanVien" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="MaChucVu" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="TenChucVu" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.sp_addLeader" Method="sp_addLeader">
+    <Parameter Name="Email" Parameter="email" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="Password" Parameter="password" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="MaNhanVien" Parameter="maNhanVien" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="TenNhanVien" Parameter="tenNhanVien" Type="System.String" DbType="NVarChar(30)" />
+    <Parameter Name="DiaChiNhanVien" Parameter="diaChiNhanVien" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="GioiTinhNhanVien" Parameter="gioiTinhNhanVien" Type="System.Boolean" DbType="Bit" />
+    <Parameter Name="NgaySinhNhanVien" Parameter="ngaySinhNhanVien" Type="System.DateTime" DbType="Date" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.sp_deleteLeader" Method="sp_deleteLeader">
+    <Parameter Name="MaNhanVien" Parameter="maNhanVien" Type="System.String" DbType="VarChar(10)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.sp_editLeader" Method="sp_editLeader">
+    <Parameter Name="MaNhanVien" Parameter="maNhanVien" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="TenNhanVien" Parameter="tenNhanVien" Type="System.String" DbType="NVarChar(30)" />
+    <Parameter Name="DiaChiNhanVien" Parameter="diaChiNhanVien" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="GioiTinhNhanVien" Parameter="gioiTinhNhanVien" Type="System.Boolean" DbType="Bit" />
+    <Parameter Name="NgaySinhNhanVien" Parameter="ngaySinhNhanVien" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="Email" Parameter="email" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="Password" Parameter="password" Type="System.String" DbType="VarChar(10)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.sp_addMember" Method="sp_addMember">
+    <Parameter Name="Email" Parameter="email" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="Password" Parameter="password" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="MaNhanVien" Parameter="maNhanVien" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="TenNhanVien" Parameter="tenNhanVien" Type="System.String" DbType="NVarChar(30)" />
+    <Parameter Name="DiaChiNhanVien" Parameter="diaChiNhanVien" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="GioiTinhNhanVien" Parameter="gioiTinhNhanVien" Type="System.Boolean" DbType="Bit" />
+    <Parameter Name="NgaySinhNhanVien" Parameter="ngaySinhNhanVien" Type="System.DateTime" DbType="Date" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.sp_deleteMember" Method="sp_deleteMember">
+    <Parameter Name="MaNhanVien" Parameter="maNhanVien" Type="System.String" DbType="VarChar(10)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.sp_editMember" Method="sp_editMember">
+    <Parameter Name="MaNhanVien" Parameter="maNhanVien" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="TenNhanVien" Parameter="tenNhanVien" Type="System.String" DbType="NVarChar(30)" />
+    <Parameter Name="DiaChiNhanVien" Parameter="diaChiNhanVien" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="GioiTinhNhanVien" Parameter="gioiTinhNhanVien" Type="System.Boolean" DbType="Bit" />
+    <Parameter Name="NgaySinhNhanVien" Parameter="ngaySinhNhanVien" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="Email" Parameter="email" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="Password" Parameter="password" Type="System.String" DbType="VarChar(10)" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>
